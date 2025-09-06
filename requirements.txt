@@ -1,0 +1,22 @@
+# GUI Framework
+PyQt6==6.6.1
+
+# Database ORM
+SQLAlchemy==2.0.23
+
+# HTTP requests for data downloading
+requests==2.31.0
+
+# Fuzzy string matching
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.23.0
+
+# PDF report generation
+reportlab==4.0.7
+
+# Additional utilities
+python-dateutil==2.8.2
+cryptography==41.0.8
+lxml==4.9.3
+# Image processing (required by ReportLab)
+Pillow>=9.0.0

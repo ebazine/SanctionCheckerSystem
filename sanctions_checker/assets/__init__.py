@@ -1,0 +1,1 @@
+# Assets package for Sanctions Checker
